@@ -1,0 +1,7 @@
+﻿  Project3.cpp
+MSVCRT.lib(initializers.obj) : warning LNK4098: 'libcmt.lib' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+Project3.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__Py_Initialize
+Project3.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp___Py_fopen
+Project3.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__PyRun_SimpleFileExFlags
+Project3.obj : error LNK2001: 확인할 수 없는 외부 기호 __imp__Py_Finalize
+C:\Study2019\Win32\changetocpp\Project3\Release\Project3.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.
